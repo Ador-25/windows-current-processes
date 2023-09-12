@@ -1,0 +1,5 @@
+C:\Users\Ador\Desktop\Windows processes.exe
+C:\Users\Ador\Desktop\Windows processes.dll
+C:\Users\Ador\Desktop\Windows processes.deps.json
+C:\Users\Ador\Desktop\Windows processes.runtimeconfig.json
+C:\Users\Ador\Desktop\Windows processes.pdb

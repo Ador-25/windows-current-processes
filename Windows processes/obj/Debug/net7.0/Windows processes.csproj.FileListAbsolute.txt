@@ -1,0 +1,15 @@
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\Windows processes.exe
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\Windows processes.deps.json
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\Windows processes.runtimeconfig.json
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\Windows processes.dll
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\Windows processes.pdb
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.csproj.AssemblyReference.cache
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.AssemblyInfoInputs.cache
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.AssemblyInfo.cs
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.csproj.CoreCompileInputs.cache
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.dll
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\refint\Windows processes.dll
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.pdb
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\Windows processes.genruntimeconfig.cache
+D:\Now\windows-current-processes\Windows processes\obj\Debug\net7.0\ref\Windows processes.dll

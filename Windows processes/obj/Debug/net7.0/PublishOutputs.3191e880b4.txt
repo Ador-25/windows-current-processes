@@ -1,0 +1,5 @@
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\publish\Windows processes.exe
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\publish\Windows processes.dll
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\publish\Windows processes.deps.json
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\publish\Windows processes.runtimeconfig.json
+D:\Now\windows-current-processes\Windows processes\bin\Debug\net7.0\publish\Windows processes.pdb
